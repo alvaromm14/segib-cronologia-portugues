@@ -1,0 +1,348 @@
+[
+    {
+        "year": 2000,
+        "event": "<a href='https://www.un.org/en/conferences/environment/newyork2000'>Cúpula para o Desenvolvimento do Milénio</a> nas Nações Unidas de Nova Iorque.",
+        "event_description": "Os países comprometem-se a atingir os ODM.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+        
+    },
+    {
+        "year": 2001,
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2002,
+        "event":
+            "<a href='https://www.un.org/esa/ffd/overview/monterrey-conference.html'>1ª Conferência Internacional sobre o Financiamento do Desenvolvimento</a> em Monterrey, México.",
+        "event_description":
+            "Compromisso para com a APD e os países mais desfavorecidos.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2003,
+        "event": "1º Fórum de Alto Nível sobre Harmonização em Roma, Itália.",
+        "event_description": "",
+        "event1":
+            "<a href='https://www.g77.org/marrakech/'>Conferência de Alto Nível do G77 sobre CSS (PABA+25)</a> em Marraquexe, Marrocos.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "A XIII Cúpula de Santa Cruz, Bolívia, aprova a <b>constituição da SEGIB</b>, em funcionamento desde 2005."
+    },
+    {
+        "year": 2004,
+        "event": "1º Dia das Nações Unidas para a CSS.",
+        "event_description":
+            "Celebrado a 14 de dezembro. Posteriormente, passa para 12 de setembro.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2005,
+        "event": "2º Fórum de Alto Nível sobre Eficácia em Paris, França.",
+        "event_description":
+            "Aprovação da Declaração de Paris sobre a Eficácia da Ajuda.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2006,
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Perante a diminuição da APD para a ALC e do renovado auge da CSS e TR, <b>os países ibero-americanos solicitam à SEGIB um exercício de sistematização do novo cenário</b>."
+    },
+    {
+        "year": 2007,
+        "report": "1",
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Surge o <b>Relatório da Cooperação na Ibero-América.  Objetivo</b>: sistematizar a CSS e TR desenvolvidas pelos países e contextualizar o novo quadro de APD. <b>Dar visibilidade e contribuir para a gestão das políticas públicas</b>. A XVII Cúpula de Santiago do Chile mandata a sua elaboração anual."
+    },
+    {
+        "year": 2008,
+        "report": "2",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/sursurwebpt12008.pdf",
+        "event":
+            "3º Fórum de Alto Nível sobre Eficácia da Ajuda em Acra, Gana.",
+        "event_description": "",
+        "event1":
+            "<a href='https://digitallibrary.un.org/record/3868846?ln=es&v=pdf'>2ª Conferência Internacional sobre o Financiamento do Desenvolvimento</a> em Doha, Qatar.",
+        "event1_description": "Dá continuidade ao Consenso de Monterrey.",
+        "event2":
+            "1ª Exposição Mundial sobre Desenvolvimento Sul-Sul patrocinada pelo Escritório das Nações Unidas para a CSS.",
+        "event2_description": "",
+        "info":
+            "O relatório põe em evidência as diferenças entre os países. A XVIII Cúpula de San Salvador aprova a criação do Programa de CSS (PIFCSS). Objetivo: <b>reforçar capacidades e colmatar lacunas</b>."
+    },
+    {
+        "year": 2009,
+        "report": "3",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/sur-surwebport2009.pdf",
+        "event": "1º Fórum sobre Cooperação para o Desenvolvimento do ECOSOC,",
+        "event_description": "que terá lugar bienalmente.",
+        "event1":
+            "<a href='https://docs.un.org/en/a/res/64/222'>Conferência de Alto Nível das Nações Unidas sobre CSS (PABA+30)</a> em Nairobi, Quénia.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "1ª Edição do Relatório em <b>inglês</b>. Inclui um capítulo redigido pelos RC, que em cada edição reflete uma <b>visão ibero-americana partilhada sobre a CSS e TR e a Agenda Global de Desenvolvimento</b>."
+    },
+    {
+        "year": 2010,
+        "report": "4",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/inf-coop-sul-sul-2010.pdf",
+        "initiatives": "3.500 iniciativas",
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Início das atividades operacionais do PIFCSS. Ultrapassam-se mais de <b>3.500 iniciativas</b> sistematizadas ao longo de quase <b>600 páginas</b>. Definem-se <b>novos dados, indicadores e metodologias</b> que aumentam a capacidade de análise e compreensão da CSS e TR."
+    },
+    {
+        "year": 2011,
+        "report": "5",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/coop-south-south-2011.pdf",
+        "event":
+            "4º Fórum de Alto Nível sobre Eficácia da Ajuda em Busan, Coreia do Sul.",
+        "event_description": "",
+        "event1": "",
+        "event1_description":
+            "É criado o Escritório das Nações Unidas para a CSS (UNOSSC), que substitui a Unidade Especial de CSS.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "No Fórum de Busan, é apresentada uma posição consensual dos CR no âmbito do PIFCSS.  Na sequência do terramoto do Haiti, o Relatório passa a integrar a análise da CSS e TR com o Caribe não Ibero-Americano e, <b>progressivamente, com outras regiões</b>. Resultado cumulativo atual: <b>+ 1.850 intercâmbios com + 90 países do Sul Global</b>.",
+                    "image": "4-high-level-forum"
+    },
+    {
+        "year": 2012,
+        "report": "6",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/relatorio-sul-sul-2012-port1.pdf",
+        "initiatives": "5.000",
+        "event":
+            "<a href='https://www.un.org/en/conferences/environment/rio2012'>Conferência das Nações Unidas sobre Desenvolvimento Sustentável (Cúpula 'Rio+20')</a> no Rio de Janeiro, Brasil.",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": "A base de dados do Relatório ultrapassa as <b>5.000 iniciativas.</b>",
+        "image": "rio+20"
+    },
+    {
+        "year": 2013,
+        "event": "1º Diálogo sobre Políticas de Cooperação Triangular em Lisboa, Portugal,",
+        "event_description": "organizado regularmente pela OCDE e pelo Governo de Portugal.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": "Início de um processo contínuo de <b>estudos temáticos aprofundados (Saúde, Segurança Alimentar, Biodiversidade...)</b> e sucessivas colaborações técnicas com outros organismos intergovernamentais, como a <b>OPAS, IICA, OCDE, IsdB e outros</b>."
+    },
+    {
+        "year": 2014,
+        "report": "7",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/websursur2013portugues.pdf",
+        "event": "1ª Reunião de Alto Nível da Aliança Mundial de Cooperação Eficaz para o Desenvolvimento na Cidade do México.",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": "<b>Os registos de CSS e TR atingem máximos históricos: + de 1.800 em apenas ano</b>. A análise cumulativa desta evolução ultrapassa as <b>1.100 páginas</b>."
+    },
+    {
+        "year": 2015,
+        "report": "8",
+        "reportUrl": "https://www.abc.gov.br/content/abc/docs/Relatorio-portugues.pdf",
+        "event":
+            "<a href='https://www.un.org/esa/ffd/ffd3/index.html'>3ª Conferência Internacional sobre o Financiamento do Desenvolvimento </a> na Etiópia.",
+        "event_description":
+            "É aprovada a Agenda de Ação de Adis Abeba (AAAA).",
+        "event1": "<a href='https://www.un.org/en/conferences/environment/newyork2015'>Cúpula sobre Desenvolvimento Sustentável</a> em Nova Iorque, ONU.",
+        "event1_description":
+            "É aprovada a Agenda 2030 com 17 ODS e reconhecidas a CSS e TR como um meio de implementação.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "<b>Arranque operacional do Sistema Integrado de Dados (SIDICSS)</b>, uma base regional online única no mundo, que permite o carregamento e o <b>processo de verificação cruzada dos dados</b>. Desde então, foi utilizada por <b>+ de 500 profissionais</b> das Agências e DGCI dos 22 países ibero-americanos.",
+        "image": "lista-objetivos"
+                },
+    {
+        "year": 2016,
+        "report": "9",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/report-ssc-2016-en1.pdf",
+        "initiatives": "7.500",
+        "event":
+            "2ª Reunião de Alto Nível da Aliança Mundial de Cooperação Eficaz para o Desenvolvimento em Nairobi, Quénia.",
+        "event_description": "",
+        "event1":
+            "1º Fórum do ECOSOC sobre o Financiamento do Desenvolvimento em Nova Iorque, ONU,",
+        "event1_description":
+            "realizado anualmente para efetuar o acompanhamento da AAAA.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "É desenvolvida a <b>metodologia que identifica o alinhamento das iniciativas de CSS e TR com os ODS</b>. Uma vez incorporada no SIDICSS, estabelece as bases para compreender a nossa cooperação no âmbito da Agenda 2030."
+    },
+    {
+        "year": 2017,
+        "report": "10",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/resumenportugues2017-web.pdf",
+        "event": "1ª Reunião da Task Force da TOSSD em Paris, França.",
+        "event_description":
+            " É promovida uma métrica sobre as contribuições para os ODS que ultrapassa a APD.",
+        "event1":
+            "Exposição Mundial sobre Desenvolvimento Sul-Sul (UNOSSC) em Antália, Turquia.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Publicação da <b>10ª edição do Relatório da CSS e TR</b>, completando uma década de sistematização da CSS e TR protagonizada pela Ibero-América. O Relatório evoluiu: <b>de CSS e TR e APD na Ibero-América, para CSS e TR da Ibero-América com todo o Sul Global</b>."
+    },
+    {
+        "year": 2018,
+        "report": "11",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/bajasur-sur2018porcompleto.pdf",
+        "event":
+            "10ª Edição da Exposição Mundial sobre Desenvolvimento Sul-Sul (UNOSSC) em Nova Iorque, ONU.",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Publicação do <b>livro 'Uma década de CSS na Ibero-América'</b>: sistematiza <b>+ de 7.000 iniciativas</b> e resume a história da CSS, através dos <b>mais de 975 eventos</b> que, desde 1955, a estruturaram. É apresentado na <b>Exposição de Nova Iorque</b>."
+    },
+    {
+        "year": 2019,
+        "report": "12",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/por-informe-completo.pdf",
+        "event": "1ª Cúpula dos ODS em Nova Iorque, ONU.",
+        "event_description": "Analisa os progressos registados na Agenda 2030.",
+        "event1":
+            "<a href='https://unsouthsouth.org/bapa40/'>2ª Conferência das Nações Unidas sobre CSS (PABA+40)</a> em Buenos Aires, Argentina.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "São efetuadas mais de <b>100 apresentações internacionais do Relatório</b>. Destacam-se as Cúpulas Ibero-Americanas, as Expo. Sul-Sul e o <b>PABA+40</b>. O PNUD desenvolve o Primeiro <b>Relatório de CSS em África</b>, com o apoio técnico da SEGIB.",
+        "image": "paba+40"
+                    },
+    {
+        "year": 2020,
+        "report": "13",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/03/por-informe-completo-1.pdf",
+        "initiatives": "9.000",
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "<b>Incorpora-se 'Triangular' no próprio título do Relatório</b>. O SIDICSS ultrapassa as 1.400 iniciativas de CT.  Dá-se início ao <b>Projeto SEGIB-UE</b> sobre a produção de conhecimentos na cooperação triangular."
+    },
+    {
+        "year": 2021,
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Na XXVII Cúpula de Andorra, é lançada a plataforma <b><a href='https://informesursur.org/pt/'>informesursur.org</a>.</b> Permite o acesso digital a <b>dados, gráficos, histórias, relatórios e documentos sobre a CSS e TR</b> da Ibero-América a partir de 2010."
+    },
+    {
+        "year": 2022,
+        "report": "14",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2023/03/relatorio2022completopt-1.pdf",
+        "event":
+            "Exposição Mundial sobre Desenvolvimento Sul-Sul (UNOSSC) em Banguecoque, Tailândia.",
+        "event_description":
+            "Debate sobre a CSS e TR e a saída da crise da COVID-19.",
+        "event1": "Comissão de Estatística da ONU.",
+        "event1_description":
+            "Adota o indicador 17.3.1, que inclui o contributo da CSS para os ODS. Custodiado em conjunto pela OCDE (IFT-TOSSD) e pela UNCTAD.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "Um estudo aprofundado demonstra que a CSS e TR da região se adaptou e foi um <b>instrumento de resposta à crise da COVID-19</b>. A Saúde representou 1 em cada 4 intercâmbios. Esta edição é ilustrada com fotografias do Banco de Imagens de CSS e TR, desenvolvido entre o PIFCSS e a SEGIB, criando um relato visual desta cooperação."
+    },
+    {
+        "year": 2023,
+        "event": "2ª Cúpula dos ODS em Nova Iorque, ONU,",
+        "event_description": "a meio caminho da Agenda 2030.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "A SEGIB aprofunda os intercâmbios e o diálogo técnico com a <b>UNCTAD e o IFT-TOSSD</b>. A experiência acumulada através do Relatório posiciona a <b>SEGIB como uma referência no debate global sobre a medição da CSS. O SIDICSS ultrapassa as 10.000 iniciativas</b>."
+    },
+    {
+        "year": 2024,
+        "report": "15",
+        "reportUrl": "https://www.segib.org/wp-content/uploads/2025/09/15-INFORME-SUL-SUL.pdf?_gl=1*tqqwqi*_ga*MjA3MzU5NjYxMi4xNzU5MTU2OTc1*_ga_MCLNSVDYMK*czE3NjI1OTQyNjQkbzckZzEkdDE3NjI1OTUxOTIkajYwJGwwJGgw",
+        "initiatives": "10.432",
+        "event": "<a href='https://unric.org/pt/cimeira-do-futuro/' target='_blank' rel='noopener noreferrer'>Cúpula do Futuro em Nova Iorque, ONU</a>",
+        "event_description": "Promove um Pacto para o Futuro. ",
+        "event1": "O Fórum Internacional da TOSSD (IFT),",
+        "event1_description":
+            "cujo Secretariado é assumido pela OCDE, substitui a Task Force no que se refere à nova métrica da cooperação.",
+        "event2":
+            "Reunião Inter-Regional de Peritos sobre Medição da CSS em Doha (Catar).",
+        "event2_description":
+            "Liderada pela UNCTAD, reúne países e agências multilaterais de diferentes regiões.",
+        "info":
+            "A <b>15ª edição</b> do Relatório é apresentada na XIX Cúpula de Cuenca (Equador). Num exercício regional sem precedentes a nível mundial, <b>mais de 2.800 páginas de análise e conceptualização</b> constituyen <b>constituem um relato único da CSS e TR que os 22 países ibero-americanos têm vindo a realizar há quase duas décadas</b>.",
+        "image": "cumbre-futuro"
+                    },
+    {
+        "year": 2025,
+        "event":
+            "<a href='https://news.un.org/pt/events/quarta-conferencia-internacional-sobre-financiamento-para-o-desenvolvimento' target='_blank' rel='noopener noreferrer'>4ª Conferência Internacional sobre o Financiamento do Desenvolvimento</a>",
+        "event_description": "em Sevilha, Espanha.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    }
+]
